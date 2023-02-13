@@ -1,3 +1,2 @@
 #!/bin/bash
-cat my_file
-
+cat my_file1
