@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "(Ôo)' > my_file
+cat my_file
+
